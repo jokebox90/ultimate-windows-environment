@@ -137,13 +137,21 @@ exit
 
 ### Améliorer l'ergonomie de la console PowerShell
 
+* Personnaliser l'affichage et les couleurs de la console.
+
 ```powershell
+choco install -y microsoft-windows-terminal
 choco install -y cascadiamonopl
 choco install -y cascadiacodepl
 Install-Module posh-git -Scope CurrentUser -Force -SkipPublisherCheck
 Install-Module oh-my-posh -Scope CurrentUser -Force -SkipPublisherCheck
 Install-Module PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck
+
+# - Quitter pour recharger la console.
+exit
 ```
+
+* Personnaliser l'affichage et les couleurs de la console.
 
 ```powershell
 choco install -y poshhosts
