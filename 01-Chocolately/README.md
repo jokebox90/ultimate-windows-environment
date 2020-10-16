@@ -11,9 +11,11 @@ Un gestionnaire de paquet maintient à jour une bibliothèque de logiciels pour 
 
 ## Prérequis pour l'installation
 
-### Environnement utilisé pou cette exploration
+### Environnement technique utilisé
 
-Système :
+* **Système :** Windows 10
+* **Processeur :** 4 cores
+* **Mémoire :** 8GB
 
 ### Prise en charge des systèmes Windows
 
