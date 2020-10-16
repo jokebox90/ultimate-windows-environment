@@ -153,7 +153,7 @@ Install-Module PSReadLine -Scope CurrentUser -Force -SkipPublisherCheck
 exit
 ```
 
-* Personnaliser l'affichage et les couleurs de la console.
+* Faciliter la maintenance du fichier 'hosts' pour la résolution DNS.
 
 ```powershell
 choco install -y poshhosts
